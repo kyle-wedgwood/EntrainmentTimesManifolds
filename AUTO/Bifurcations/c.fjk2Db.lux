@@ -1,0 +1,10 @@
+dat = 'starting_orbit_I50_stable_variationalT'
+NDIM =  12, IPS =   4, IRS =   0, ILP =   0
+ICP =  [2,13,14,31,28,20,26,21,27]
+NTST =  35, NCOL=   4, IAD =   3, ISP =   2, ISW = 1, IPLT= 0, NBC= 14, NINT= 1
+NMX =   100000, NPR= 0, MXBF=  10, IID =   2, ITMX= 8, ITNW= 7, NWTN= 3, JAC= 0
+EPSL =  1e-08, EPSU = 1e-08, EPSS =1e-6
+DS  = -1e-4, DSMIN=  1e-4, DSMAX=  1e-0, IADS=   1
+NPAR = 36, THL =  {11: 0.0}, THU =  {}
+UZR = {20:[-1.0,1.0],21:[-1.0,1.0], 2:[50.0,100.0,150.0]},
+UZSTOP={2:[1.4000807846E-002,1000.0]}

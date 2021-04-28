@@ -1,0 +1,9 @@
+NDIM =  12, IPS =   4, IRS =   0, ILP =   0
+ICP =  [2,4,13,14,28,31,20,26,21,27]
+NTST =  35, NCOL=   4, IAD =   3, ISP =   2, ISW = 1, IPLT= 0, NBC= 19, NINT= 1
+NMX =   10000000, NPR=  1000, MXBF=  10, IID =   2, ITMX= 8, ITNW= 7, NWTN= 3, JAC= 0
+EPSL =  1e-08, EPSU = 1e-08, EPSS =1e-6
+DS  = -1e-4, DSMIN=  1e-6, DSMAX=  1e-2, IADS=   1
+NPAR = 36, THL =  {11: 0.0}, THU =  {}
+UZR = {4:[23.8,24.2]}
+UZSTOP={4:[3.0,24.01,23.99],2:[1E-3,1000.0,1001.0]}
